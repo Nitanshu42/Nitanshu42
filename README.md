@@ -61,6 +61,7 @@ current = "Pushing everything I've built in the last 4 months — it's a lot."
 | [SIH-Project-2025](https://github.com/Nitanshu42/SIH-Project-2025) | Smart India Hackathon submission | HTML, CSS, JS |
 | [Project-Camp-Application](https://github.com/Nitanshu42/Project-Camp-Application) | Full-stack camp management app | TypeScript |
 | [patch_bot](https://github.com/Nitanshu42/patch_bot) | Automation bot | Python |
+| [KeyWord-Finder](https://github.com/Nitanshu42/patch_bot) | Key-WordFinder | HTML, CSS, JS |
 
 > More projects landing this week — the serious ones.
 
