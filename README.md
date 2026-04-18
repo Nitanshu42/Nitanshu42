@@ -56,7 +56,7 @@ current = "Pushing everything I've built in the last 4 months — it's a lot."
 
 | Project | What it does | Tech |
 |---|---|---|
-| [OOP-project-using-Raylib](https://github.com/Nitanshu42/OOP-project-using-Raylib) | Real-time physics sim — inertia, collisions, shape rendering | C++, Raylib |
+| [game-C++](https://github.com/Nitanshu42/game-C++) | Real-time physics sim — inertia, collisions, shape rendering | C++, Raylib |
 | [AIML](https://github.com/Nitanshu42/AIML) | Titanic survival prediction via Logistic Regression | Python, scikit-learn |
 | [SIH-Project-2025](https://github.com/Nitanshu42/SIH-Project-2025) | Smart India Hackathon submission | HTML, CSS, JS |
 | [Project-Camp-Application](https://github.com/Nitanshu42/Project-Camp-Application) | Full-stack camp management app | TypeScript |
