@@ -56,12 +56,13 @@ current = "Pushing everything I've built in the last 4 months — it's a lot."
 
 | Project | What it does | Tech |
 |---|---|---|
+| [Keyword-Finder](https://github.com/Nitanshu42/Web-Keywordfinder) | Key-WordFinder | HTML, CSS, JS |
 | [game-C++](https://github.com/Nitanshu42/game-C-) | Real-time physics sim — inertia, collisions, shape rendering | C++, Raylib |
 | [AIML](https://github.com/Nitanshu42/AIML) | Titanic survival prediction via Logistic Regression | Python, scikit-learn |
 | [SIH-Project-2025](https://github.com/Nitanshu42/SIH-Project-2025) | Smart India Hackathon submission | HTML, CSS, JS |
 | [Project-Camp-Application](https://github.com/Nitanshu42/Project-Camp-Application) | Full-stack camp management app | TypeScript |
 | [patch_bot](https://github.com/Nitanshu42/patch_bot) | Automation bot | Python |
-| [KeyWord-Finder](https://github.com/Nitanshu42/patch_bot) | Key-WordFinder | HTML, CSS, JS |
+
 
 > More projects landing this week — the serious ones.
 
