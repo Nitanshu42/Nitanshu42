@@ -56,7 +56,7 @@ current = "Pushing everything I've built in the last 4 months — it's a lot."
 
 | Project | What it does | Tech |
 |---|---|---|
-| [Social-Studio](https://github.com/Nitanshu42/Web-SocialStudio) | Key-Wor | HTML, CSS, JS |
+| [Social-Studio](https://github.com/Nitanshu42/Web-SocialStudio) | Thymleaf, Maven, SpringBoot | JAVA, MONGODB |
 | [Keyword-Finder](https://github.com/Nitanshu42/Web-Keywordfinder) | Key-WordFinder, linear Search | HTML, CSS, JS |
 | [game-C++](https://github.com/Nitanshu42/game-C-) | Real-time physics sim — inertia, collisions, shape rendering | C++, Raylib |
 | [AIML](https://github.com/Nitanshu42/AIML) | Titanic survival prediction via Logistic Regression | Python, scikit-learn |
